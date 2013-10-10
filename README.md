@@ -1,9 +1,12 @@
-si664-f13 - Git and Github
+ Github
 ==========================
 
+hby
 This is a starting point to talk about git and github 
 
-Install git 
+Install git
+
+xc
 -----------
 anni1865
 * [Macintosh](http://git-scm.com/download/mac)
