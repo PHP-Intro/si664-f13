@@ -16,7 +16,7 @@ Install git
 Etherpad for Class
 ------------------
 
-* http://openetherpad.org/p/si664
+* http://titanpad.com/RkYrZvOLKN
 
 Make a github Account
 ---------------------
