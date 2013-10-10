@@ -24,6 +24,13 @@ Make a github Account
 To save time in class make a github account before you come to class to 
 particpate in the in-class git activity.
 
+Configure Global Git Settings
+-----------------------------
+
+$ git config --global user.name "John Doe"
+
+$ git config --global user.email johndoe@example.com
+
 Here are some resources
 -----------------------
 
