@@ -4,7 +4,9 @@
 hby
 This is a starting point to talk about git and github 
 
-Install git 
+Install git
+
+xc
 -----------
 
 * [Macintosh](http://git-scm.com/download/mac)
