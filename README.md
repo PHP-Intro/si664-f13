@@ -1,14 +1,11 @@
  Github
 ==========================
 
-hby
 This is a starting point to talk about git and github 
 
 Install git
-
-xc
 -----------
-anni1865
+
 * [Macintosh](http://git-scm.com/download/mac)
 
 * [Windows](http://msysgit.github.com/) - Note that when you install, 
